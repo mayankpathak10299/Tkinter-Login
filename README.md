@@ -2,7 +2,8 @@
 
 **Login page using TKINTER (python)**
 
-**Welcome to Python GUI Login tutorial. In this tutorial i will teach you to create a Login form where user can register themselves and can login. Registration and Login requires everywhere,  either you are filling any form or want to access any application. So in this tutorial we will see how to implement user registration and login in python.**
+**Welcome to the Python GUI Login tutorial. In this tutorial, I created a Login form where users can register themselves and can log in. Registration and Login require everywhere, either you are filling any form or want to access any application. 
+We will create a GUI interface. In python, you can develop any GUI applications easily. If you have ideas then you can turn your imagination into reality and make many creative things in programming.**
 
 
 
