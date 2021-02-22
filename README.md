@@ -7,4 +7,4 @@ We will create a GUI interface. In python, you can develop any GUI applications 
 
 
 
-**Made with ❤ in INDIA**
+**Made with ❤ by Mayank Pathak (Mirzapur, U.P.) INDIA**
