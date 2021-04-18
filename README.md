@@ -6,7 +6,8 @@
 We will create a GUI interface. In python, you can develop any GUI applications easily. If you have ideas then you can turn your imagination into reality and make many creative things in programming.**
 <p align="center">
  <img height="330" width="540" src="logo.jpg">
-
-
+</p>
+<br>
+<p align="center">
 **Made with ❤ by Mayank Pathak (Mirzapur, U.P.) INDIA**
 </p>
