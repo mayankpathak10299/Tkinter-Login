@@ -9,5 +9,5 @@ We will create a GUI interface. In python, you can develop any GUI applications 
 </p>
 <br>
 <p align="center">
-  <h3>Made with ❤ by Mayank Pathak (Mirzapur, U.P.) INDIA</h3>
+  <h3 align="center">Made with ❤ by Mayank Pathak (Mirzapur, U.P.) INDIA</h3>
 </p>
